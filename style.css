@@ -21,6 +21,7 @@ body {
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bold;
+    margin:16px;
 }
 
 .content {
@@ -33,7 +34,7 @@ body {
 ul {
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 16px;
     display: flex;
     gap: 24px;
     
