@@ -14,6 +14,7 @@
     justify-content: space-between;
     width: 800px;
     border-radius: 10px;
+    margin: 0px 16px;
 }
 
 .modal > button {
@@ -25,8 +26,7 @@
     border-radius: 8px;
     border-width: 2px;
     font-size: 18px;
-    font-weight: 550;
-
+    font-weight: 550;   
 }
 
 .text > h6 {
