@@ -1,0 +1,42 @@
+.sectionfour {
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9FAF8;
+    color: #F9FAF8;
+}
+
+.modal {
+    display: flex;
+    background-color: #3882F6;
+    padding: 48px 64px;
+    justify-content: space-between;
+    width: 800px;
+    border-radius: 10px;
+}
+
+.modal > button {
+    color: #F9FAF8;
+    width: 128px;
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: #F9FAF8;
+    border-radius: 8px;
+    border-width: 2px;
+    font-size: 18px;
+    font-weight: 550;
+
+}
+
+.text > h6 {
+    font-weight: 800;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+.text > p {
+    margin: 0;
+    padding: 0;
+}
