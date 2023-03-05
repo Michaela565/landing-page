@@ -1,0 +1,27 @@
+.sectionthree {
+    height: 430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+
+.quote {    
+    max-width: 800px;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0px 16px 0px 16px;
+}
+
+.quotationcredit {
+    font-weight: 800;
+    font-size: 18px;
+    margin: 0;
+    width: 800px;
+    text-align: end;
+}
+
