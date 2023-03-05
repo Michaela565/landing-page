@@ -46,3 +46,12 @@ a {
     font-size: 18px;
     font-weight: 400;
 }
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 100px;
+}
