@@ -29,6 +29,7 @@ h3{
     justify-items: center;
     align-items: center;
     gap: 40px;
+    flex-wrap: wrap;
 }
 
 .blocks {

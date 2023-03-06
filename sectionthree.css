@@ -21,7 +21,7 @@
     font-weight: 800;
     font-size: 18px;
     margin: 0;
-    width: 800px;
+    min-width: 800px;
     text-align: end;
 }
 
